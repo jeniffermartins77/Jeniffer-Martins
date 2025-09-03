@@ -27,5 +27,5 @@ Atualmente estou aprendendo Python, SQL e Power BI, gosto de explorar como trans
 
 <p align="left">
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jeniffer-martins-do-nascimento-b4b245281N" alt="LinkedIn"/></a>
+    <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jeniffer-martins-do-nascimento-b4b245281" alt="LinkedIn"/></a>
