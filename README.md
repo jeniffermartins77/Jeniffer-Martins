@@ -22,7 +22,7 @@ Atualmente estou aprendendo Python, SQL e Power BI, gosto de explorar como trans
 </p>
 
 <p align="left">
-  💌 Transformando dados em informações que fazem a diferença :
+  💌 Transformando dados em informações que fazem a diferença
 </p>
 
 <p align="left">
