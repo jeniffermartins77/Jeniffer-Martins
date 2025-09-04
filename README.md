@@ -4,7 +4,7 @@ Apresentação pessoal e resumo da minha trajetória em tecnologia.
 
 <p align="left"> 
 Sou estudante de Análise e desenvolvimento de sistemas, com interesse em análise de dados. 
-Atualmente estou aprendendo Python, SQL e Power BI, gosto de explorar como transformar dados em informações úteis para a tomada de decisão
+Atualmente estou aprendendo Python, SQL e Power BI, gosto de explorar como transformar dados em informações úteis para a tomada de decisão.
 </p>
 
 <p align="left">
@@ -22,7 +22,7 @@ Atualmente estou aprendendo Python, SQL e Power BI, gosto de explorar como trans
 </p>
 
 <p align="left">
-  💌 Transformando dados em informações que fazem a diferença
+  💌 Transformando dados em informações que fazem a diferença.
 </p>
 
 <p align="left">
