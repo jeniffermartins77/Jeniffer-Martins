@@ -3,26 +3,27 @@ Apresentação pessoal e resumo da minha trajetória em tecnologia.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou estudante de Análise e desenvolvimento de sistemas, com interesse em análise de dados. 
-Atualmente estou aprendendo Python, SQL e Power BI, gosto de explorar como transformar dados em informações úteis para a tomada de decisão.
+Sou estudante de análise e desenvolvimento de sistemas, com interesse em desenvolvimento Front-end. 
+Atualmente estou aprendendo HTML, CSS e JavaScript, gosto de explorar como criar interfaces funcionais e intuitivas que melhorem a experiência do usuário.
 </p>
 
 <p align="left">
   
-   - 📊 Foco em análise de dados 
+   - 📊 Foco em desenvolvimento Front-end
   
-  - 🔎 Explorando Python, SQL, Power BI e ferramentas de visualização
+  - 🔎 Explorando HTML, CSS, JavaScript, React e tecnologias web
     
   - 🚀 Buscando aplicar conhecimentos em projetos reais 
 </p>
 
 <p align="left">
   
-  💼 Ferramentas: Python | SQL | Power BI | Excel 
+  - 💼 Ferramentas: HTML | CSS | JavaScript | React
 </p>
 
 <p align="left">
-  💌 Transformando dados em informações que fazem a diferença.
+  
+- ⚡Transformando ideias em interação.
 </p>
 
 <p align="left">
